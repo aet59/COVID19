@@ -1,7 +1,8 @@
 '''
 Akond Rahman 
 Sep 27, 2023
-Answer to RQ1 
+Answer to RQ1
+minor change
 '''
 import os 
 import csv 
